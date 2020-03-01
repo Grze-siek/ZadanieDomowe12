@@ -1,0 +1,4 @@
+Jan;Kowalski;123456789;Management;6000
+Aneta;Zawadzka;432156789;it;5200
+Karol;Kowalewski;5412328948;it;5200
+Jan;Zarzecki;678628373674;Support;4800
